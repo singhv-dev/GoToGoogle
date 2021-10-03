@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Custom Linked List", "6.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Palindrome Linked List", "7. Palindrome Linked List\7. Palindrome Linked List.csproj", "{9BC438B0-A318-4F28-AA21-67F9D04E406F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Intersection Point in Y shaped Linked List", "8. Intersection Point in Y shaped Linked List\8. Intersection Point in Y shaped Linked List.csproj", "{F44D4D8A-5E90-424F-AAFC-E43A9EDA345A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Reverse a Linked List in Group of Given Size", "9. Reverse a Linked List in Group of Given Size\9. Reverse a Linked List in Group of Given Size.csproj", "{B57CE0F9-9508-4C9E-ADC1-054B757D3DFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{9BC438B0-A318-4F28-AA21-67F9D04E406F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BC438B0-A318-4F28-AA21-67F9D04E406F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BC438B0-A318-4F28-AA21-67F9D04E406F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44D4D8A-5E90-424F-AAFC-E43A9EDA345A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44D4D8A-5E90-424F-AAFC-E43A9EDA345A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44D4D8A-5E90-424F-AAFC-E43A9EDA345A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44D4D8A-5E90-424F-AAFC-E43A9EDA345A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57CE0F9-9508-4C9E-ADC1-054B757D3DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57CE0F9-9508-4C9E-ADC1-054B757D3DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57CE0F9-9508-4C9E-ADC1-054B757D3DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57CE0F9-9508-4C9E-ADC1-054B757D3DFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_8._Intersection_Point_in_Y_shaped_Linked_List</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\6. Custom Linked List\6. Custom Linked List.csproj" />
+  </ItemGroup>
+
+</Project>
