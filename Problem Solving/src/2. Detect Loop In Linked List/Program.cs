@@ -87,5 +87,10 @@ namespace _2._Detect_Loop_In_Linked_List
 
             return false;
         }
+
+        internal static bool IsCycleExistsWithHashMap(LinkedListNode<int> head)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
