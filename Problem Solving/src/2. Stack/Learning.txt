@@ -2,4 +2,4 @@
 2. Use two stack for double linked lists kind of tracking.
 3. Use stack for any kind of parentheses matching problem. Also try to solve the problem using +1 and -1 approch, Kind of keeping the balance of parentheses.
   ex. when empty stack encountered closing bracket ']', then do -1 and store the count somewhere.
-4. 
+4. For next/previous greater elements use the stack.
